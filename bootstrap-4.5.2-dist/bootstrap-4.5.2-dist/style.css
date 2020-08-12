@@ -12,6 +12,7 @@ body{
 main{
    box-sizing: border-box;
    margin: 10px 10px 10px;
+   max-height: 30%;
 }
 
 
