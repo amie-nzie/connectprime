@@ -1,14 +1,19 @@
 *{
-    height: 50px;
+    height: 20px;
     font-style: normal;
     margin: 0;
     padding: 0;
 }
 
 body{
+    
     margin-top: 0;
     padding: 20%;
 }
+.column{
+    box-shadow: 1px black;
+}
+
 main{
    box-sizing: border-box;
    margin: 10px 10px 10px;
